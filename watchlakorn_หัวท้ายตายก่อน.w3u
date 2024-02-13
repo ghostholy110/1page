@@ -1,9 +1,16 @@
 {
     "name": "หัวท้ายตายก่อน",
-    "author": "เจียว เจียว อัพวันที่ 10 กุมภาพันธ์ 2567",
+    "author": "เจียว เจียว อัพวันที่ 13 กุมภาพันธ์ 2567",
     "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
     "image": "https://cdn.watchlakorn.in/storage/images/av-1615829145.jpg",
     "stations": [
+        {
+            "name": "หัวท้ายตายก่อน อาร์ต, ป๋อง, บ่าววี, ส้ม, ต้าวหยอง, ปอ, บิว, กาละแมร์, ซานิ",
+            "info": "วันที่ 12 กุมภาพันธ์2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1615829145.jpg",
+            "url": "https://www.watchlakorn.in/egde/a88d00c20bc072e964c0a9eace0bc9b4/ODg1/MTE1Mg==/ZGF0YTE1LzEyLTAyLTIwMjQvVGhlRmlyc3RhbmRMYXN0VGhhaWxhbmQtMTItRmViLTIwMjQubXA0/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
         {
             "name": "หัวท้ายตายก่อน",
             "info": "วันที่ 5 กุมภาพันธ์2567",
